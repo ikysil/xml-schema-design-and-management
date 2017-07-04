@@ -1,2 +1,3 @@
-# xml-schema-design-and-management
+# XML Schema Design and Management
+
 Collection of Documents on XML Schema Design and Management
